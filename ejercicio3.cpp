@@ -1,3 +1,4 @@
+//Clase 1: Variables int, float y operaciones
 #include <iostream>
 
 using namespace std;
